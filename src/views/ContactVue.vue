@@ -8,7 +8,6 @@
         <div class="contact-methods"> 
             <h2>
           <p style="font-size: 25px; user-select: text">Email : <span style="color:#2fbf71"> prats1121@gmail.com</span> </p>
-          <p style="font-size: 25px; user-select: text;">Contact No: <span style="color:#2fbf71">+91 8303365324</span></p>
         </h2><br>
           <div class="social-icons">
             <v-btn size="70" icon large class="mdi-icon" color="black" @click="redirectTo('https://github.com/PratyushSrivastava321/')">
